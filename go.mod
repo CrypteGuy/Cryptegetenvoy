@@ -5,14 +5,13 @@ go 1.13
 require (
 	bitbucket.org/creachadair/shell v0.0.6
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
+	github.com/asaskevich/govalidator v0.0.0-20190424111038-f61b66f89f4a
 	github.com/docker/distribution v2.7.1+incompatible
 	github.com/envoyproxy/go-control-plane v0.9.5
 	github.com/ghodss/yaml v1.0.0
-	github.com/asaskevich/govalidator v0.0.0-20190424111038-f61b66f89f4a
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/gogo/protobuf v1.3.0
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.3.5
-	github.com/hashicorp/go-multierror v1.0.0
 	github.com/manifoldco/promptui v0.0.0-00010101000000-000000000000
 	github.com/mattn/go-isatty v0.0.12
 	github.com/mattn/go-shellwords v1.0.10
